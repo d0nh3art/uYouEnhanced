@@ -287,7 +287,9 @@
 - **Compatibility:** Requires iOS/iPadOS 15.0 or later.
 - For AltStore user: 
 
-  - My official AltStore repo: https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json
+  - My official AltStore repo (uYouEnhanced - iOS 15+): https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornloverALT/arichornloverALT.github.io/main/apps.json
+
+  - My alternative AltStore repo (uYouEnhanced - iOS 14+ - mainly for Trollstore users): https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornloverALT/arichornloverALT.github.io/main/apps-legacy.json - not sure if i can update this ipa. this IPA will be locked in YouTube Version **19.20.2**
 
   - [Open in AltStore (v19.21.2-3.0.4)](https://tinyurl.com/2wea84xd) - It will take a while to install because AltStore needs to download the IPA first.
 
@@ -378,9 +380,10 @@ See [arichornlover - Wiki](https://github.com/arichornlover/uYouEnhanced/wiki/) 
 
 <details>
     <summary>Read more</summary><br>
-- Change from uYouEnhanced to YTLitePlus (optional)
 
-Hello, this is here to showcase this tweak. I have been seeing the YTLitePlus tweak on Reddit for quite some time now and decided to join in. Before you download the tweak, you should take a look at the pros and cons below to learn more about the tweak.
+# Switch from uYouEnhanced to YTLitePlus (optional)
+
+Hello, this is here to showcase this tweak. I have been seeing the posts about the YTLitePlus tweak on Reddit for quite some time now and decided to add it here. Before you download or check out the tweak, you should take a look at the pros and cons below to learn more about YTLitePlus.
 
 https://github.com/YTLitePlus/YTLitePlus/releases
 
